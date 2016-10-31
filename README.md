@@ -1,4 +1,4 @@
-# [MusixMatch .NET API](google.com)
+# [MusixMatch .NET API](http://www.aryanmann.com/project/musixmatchapi)
 Easily access artist, album, song and track data for thousands of artists. This C#/.NET implementation of the MusixMatch API allows you to easily get and sort through this data.
 
 Cross linking design allows you to get artist from lyrics, lyrics of artist, tracks from album, album from lyrics etc. Every piece of data has a parent/child relationship.
